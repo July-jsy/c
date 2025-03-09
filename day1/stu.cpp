@@ -1,6 +1,6 @@
 ﻿#include <iostream>
 #include <string>
-#define N 10
+#define N 5
 
 using namespace std;
 
